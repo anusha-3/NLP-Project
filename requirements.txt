@@ -1,0 +1,22 @@
+streamlit
+pickle
+string
+stopwords
+PorterStemmer
+numpy as np
+pandas
+LabelEncoder
+matplotlib.pyplot
+nltk
+seaborn
+train_test_split
+RandomForestClassifier
+WordCloud
+CountVectorizer
+TfidfVectorizer
+GaussianNB
+MultinomialNB
+BernoulliNB
+accuracy_score
+confusion_matrix
+precision_score
