@@ -4,3 +4,4 @@ PorterStemmer
 numpy
 pandas
 nltk
+sklearn
