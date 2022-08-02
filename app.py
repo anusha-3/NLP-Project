@@ -4,6 +4,7 @@ import pickle
 import string
 from nltk.corpus import stopwords
 import nltk
+import nltk.data
 from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
