@@ -3,7 +3,7 @@ pickle
 string
 stopwords
 PorterStemmer
-numpy as np
+numpy
 pandas
 LabelEncoder
 matplotlib.pyplot
